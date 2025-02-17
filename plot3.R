@@ -2,7 +2,7 @@
 library(data.table)
 
 
-setwd("C:/path/to/your/repository")  
+setwd("C:/Users/yagini/Documents/DataScienceCourse/eda2/ExData_Plotting1")  
 
 
 powerDT <- fread("household_power_consumption.txt", na.strings = "?")

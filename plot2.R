@@ -3,7 +3,7 @@ library(data.table)
 library(lubridate)
 
 # Set the working directory (adjust the path accordingly)
-setwd("C:/Users/yagini/Documents/DataScienceCourse/eda1/ExData_Plotting1")
+setwd("C:/Users/yagini/Documents/DataScienceCourse/eda2/ExData_Plotting1")
 
 # Read in the data, treating '?' as missing values
 powerDT <- fread("household_power_consumption.txt", na.strings="?")

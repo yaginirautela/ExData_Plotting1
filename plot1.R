@@ -1,6 +1,6 @@
 library(data.table)
 
-setwd("C:/Users/yagini/Documents/DataScienceCourse/eda1/ExData_Plotting1")
+setwd("C:/Users/yagini/Documents/DataScienceCourse/eda2/ExData_Plotting1")
 
 powerDT <- fread("household_power_consumption.txt", na.strings="?")
 
